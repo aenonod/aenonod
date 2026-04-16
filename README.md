@@ -1,5 +1,5 @@
 # Hi, I'm Abegail E. Nonod!👋
-✍ Bachelor of Science in Computer Engineering <br>📕 Polytechnic University of the Philippines<br>🌱 I’m currently learning Python<br>🤔 Interested in AI, Data Analysis, Wed Development, and UI/UX Design<br>📫 How to reach me: abegailenonod@iskolarngbayan.pup.edu.ph
+✍ Bachelor of Science in Computer Engineering <br>📕 Polytechnic University of the Philippines<br>🌱 I’m currently learning Python<br>🤔 Interested in AI, Data Analysis, Web Development, and UI/UX Design<br>📫 How to reach me: abegailenonod@iskolarngbayan.pup.edu.ph
 
 
 ## 🌐 Socials:
